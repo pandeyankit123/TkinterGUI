@@ -1,3 +1,6 @@
+#Made by Ankit Pandey
+#Dated: 14 October 2022
+
 '''Create a Countdown timer in python with Start and Pause Button'''
 
 import time
