@@ -14,7 +14,7 @@
 <br><br>
 <h3>3. GUI_Notepad</h3>
 <p>
-    . Dated: 14 October 2022 <br>
+    . Dated: 04 December 2022 <br>
     . A simple and user-friendly Notepad application built using Tkinter, a Python GUI toolkit. It allows users to create, edit, and save text-based documents.<br>
     . The interface includes basic functionalities like cut, copy, paste, undo, redo, find and replace. Its minimalist design ensures ease of use and a distraction-free writing environment for quick note-taking and text editing tasks.<br>
 </p>
