@@ -18,3 +18,10 @@
     . A simple and user-friendly Notepad application built using Tkinter, a Python GUI toolkit. It allows users to create, edit, and save text-based documents.<br>
     . The interface includes basic functionalities like cut, copy, paste, undo, redo, find and replace. Its minimalist design ensures ease of use and a distraction-free writing environment for quick note-taking and text editing tasks.<br>
 </p>
+<br><br>
+<h3>4. Marksheet Builder</h3>
+<p>
+    . Dated: 23 July 2023 <br>
+    . Marksheet Builder is a user-friendly desktop application developed using the Tkinter library in Python. This intuitive tool allows educators and administrators to efficiently generate and customize student mark sheets. <br>
+    . With a simple and interactive interface, users can input student data, exam scores, and other relevant information, and the Marksheet Builder will automatically compute grades, averages, and total scores.
+</p>
